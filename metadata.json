@@ -1,0 +1,6 @@
+{
+  "name": "Shopify Pro TPE - Accompagnement & Lancement E-commerce",
+  "description": "Plateforme complète d'accompagnement, cadrage, configuration Shopify, catalogue, transporteurs tunisiens, paiements et formation pour TPE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
